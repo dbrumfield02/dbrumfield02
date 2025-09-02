@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I’m Dylan (Darliree) Brumfield!  
 
-💻 **Computer Science graduate** at Lenoir-Rhyne University (graduating Aug 2025) with a strong foundation in **software engineering, full-stack development, and data analytics**.  
+💻 **Computer Science graduate** at Lenoir-Rhyne University with a strong foundation in **software engineering, full-stack development, and data analytics**.  
 ⚙️ Experienced in **Java, Python, C++, SQL, JavaScript, and R**, with hands-on work in **React, Node.js, and database integration**.  
 🎯 Passionate about **building practical applications** that combine clean design, efficient algorithms, and scalable systems.  
 
